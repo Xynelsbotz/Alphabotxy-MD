@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
+global.autoread = false // auto read pesan / message
 global.autobio = false 
 
 //language
@@ -38,7 +38,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/e19d670e76900d48e851b.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Sayu-Ogiwara\nCreate by Xynels\n\n❗INFORMASI\nBot ini masih dalam tahap pengembangan, jadi mohon maaf jika ada kendala bug/error.\n\n⚠️DILARANG SPAM\n\n📮JASA SEWA BOT\nNomor Owner : 081515453325\n(don't call/spam)' //sticker wm ubah
+global.packname = '© Sayu-Ogiwara\nCreate by Xynels\n\n❗INFORMASI\nBot ini masih dalam tahap pengembangan, jadi mohon maaf jika ada kendala bug/error.\n\n📮JASA SEWA BOT\nNomor Owner : 081515453325' //sticker wm ubah
 global.author = 'Di Buat Oleh Xynels Design' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
