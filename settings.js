@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read pesan / message
-global.autobio = true 
+global.autobio = false 
 
 //language
 //Available in indonesia & english
@@ -23,23 +23,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Sayu-OgiwaraV4" //namabot kalian
+global.ownername= "Xynels" //nama kalian
 global.myweb ="https://xynelsdesign.carrd.co/" //bebas asal jan hapus
 global.youtube = "https://bit.ly/xynelsdesign" //bebas asal jan hapus
 global.github = "https://bit.ly/githubxynels" //bebas
 global.email = "xynelsdesign@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6281515453325","622150996855","447710173736"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281515453325","622150996855","447710173736","16084476123"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281515453325" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.ownernomerr = "+6281515453325" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome="https://telegra.ph/file/e19d670e76900d48e851b.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Sayu-Ogiwara\nCreate by Xynels\n\n📮INFORMASI\nBot ini masih dalam tahap pengembangan, jadi mohon maaf jika ada kendala bug/error.' //sticker wm ubah
+global.author = 'Di Buat Oleh Xynels' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
