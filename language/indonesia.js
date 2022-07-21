@@ -586,6 +586,8 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
+Instagram : Instagram.com/xynels.design
+Youtube : youtube.com/xynelsdesign
 *⌚Time Server : ${time}*
 *📚 List-Menu Alphabot-Md :*
 
@@ -1475,7 +1477,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini masih tahap pengembangan (PRIVATE SC) 
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1523,6 +1525,8 @@ Thanks!
 
 Contact person Owner:
 wa.me/${ownernomer}
+Bisa juga melalui follow IG :
+Instagram.com/xynels.design
 
     `
 }
