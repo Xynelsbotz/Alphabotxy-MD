@@ -586,8 +586,10 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
+
 Instagram : Instagram.com/xynels.design
 Youtube : youtube.com/xynelsdesign
+
 *⌚Time Server : ${time}*
 *📚 List-Menu Alphabot-Md :*
 
@@ -632,6 +634,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}del [reply pesan bot]
 ╰❒ ${prefix}setppbot [reply image]
 
+
 ╭─❒ 「 Store Menu 」
 ├ ${prefix}list
 ├ ${prefix}addlist [key|respond]
@@ -645,6 +648,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}kalkulator
 ├ ${prefix}proses
 ╰❒ ${prefix}done [surah|ayat]
+
 
 ╭─❒ 「 Anonymous 」
 ├ ${prefix}anonymous 
@@ -686,17 +690,20 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}tagall [text]
 ╰❒ ${prefix}hidetag [text]
 
+
 ╭─❒ 「 Anime 」 
 ├ ${prefix}quotesanime
 ├ ${prefix}anime [query]
 ├ ${prefix}manga [query]
 ╰❒ ${prefix}character [query]
 
+
 ╭─❒ 「 Tag 」 
 ├ ${prefix}stickertag
 ├ ${prefix}videotag [query]
 ├ ${prefix}vntag [query]
 ╰❒ ${prefix}imagetag [query]
+
 
 ╭─❒ 「 Stalking 」 
 ├ ${prefix}igstalk [username]
@@ -813,6 +820,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}mediafire [link]
 ╰❒ ${prefix}twitter link
 
+
 ╭─❒ 「 Primbon 」
 ├ ${prefix}nomorhoki 887435047326
 ├ ${prefix}artimimpi [query]
@@ -844,6 +852,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}masasubur
 ├ ${prefix}zodiak 
 ╰❒ ${prefix}shio [query]
+
 
 ╭─❒ 「 Random Anime 」
 ├ ${prefix}loli
@@ -877,6 +886,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}poke
 ├ ${prefix}dance
 ╰❒ ${prefix}cringe
+
 
 ╭─❒ 「 Nsfw & Sfw 」
 ├ ${prefix}ahegao
@@ -957,6 +967,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}ngif
 ├ ${prefix}cuddle
 ╰❒ ${prefix}zettai
+
 
 ╭─❒ 「 Ephoto360 Menu 」
 ├ ${prefix}youtubegold
@@ -1232,6 +1243,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}memegen [text|text]
 ╰❒
 
+
 ╭─❒ 「 Game Menu 」
 ├ ${prefix}kuismath
 ├ ${prefix}tebak [option]
@@ -1264,6 +1276,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}ukhty
 ╰❒ ${prefix}syifa
 
+
 ╭─❒ 「 Telegram Sticker 」
 ├ ${prefix}awoawo
 ├ ${prefix}benedict
@@ -1287,6 +1300,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}kawan_sponsbob
 ╰❒ ${prefix}tyni
 
+
 ╭─❒ 「 Random Cewe 」
 ├ ${prefix}china 
 ├ ${prefix}indonesia 
@@ -1299,6 +1313,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}jiso 
 ├ ${prefix}lisa  
 ╰❒ ${prefix}rose
+
 
 ╭─❒ 「 Logo Menu 」
 ├ ${prefix}coverbannerlol text|heroes
@@ -1378,6 +1393,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}tafsirsurah [surah]
 ╰❒ ${prefix}alquranaudio [surah|ayat]
 
+
 ╭─❒ 「 Sound Menu 」
 ├ ${prefix}sound1
 ├ ${prefix}sound2
@@ -1450,6 +1466,7 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}sound69
 ╰❒ ${prefix}sound70
 
+
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ Xynels Design
@@ -1472,6 +1489,7 @@ exports.rules = (prefix) => {
 1. Jangan spam bot. 🙅
 2. Jangan telepon bot. ☎️
 3. Jangan membandingkan bot 👍
+4. Jangan menyalahgunakan bot 😡
 
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
@@ -1499,17 +1517,22 @@ exports.welcome = () =>{
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k😇`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out sih😡
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : By Xynels Design (PRIVATE SC)
+Recode : By Xynels Design
+
+*📮INFORMASI*
+Chat owner jika ingin SC-nya
+Wa.me/+6285854337533
+
 `
 }
 exports.tos = (ownernomer) => {
@@ -1527,6 +1550,8 @@ Contact person Owner:
 wa.me/${ownernomer}
 Bisa juga melalui follow IG :
 Instagram.com/xynels.design
+
+
 
     `
 }
