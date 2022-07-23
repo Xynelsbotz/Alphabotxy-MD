@@ -593,17 +593,18 @@ Youtube : youtube.com/xynelsdesign
 *⌚Time Server : ${time}*
 *📚 List-Menu Alphabot-Md :*
 
-╭─❒ 「 Bot Info 」 
+╭─❒ *「 Bot Info 」*
 ├ ${prefix}owner
 ├ ${prefix}rules
 ├ ${prefix}sc
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
-╰❒ ${prefix}donate
+├ ${prefix}donate
+╰───────❒
 
 
-╭─❒ 「 Owner 」 
+╭─❒ *「 Owner 」*
 ├ < evaluate
 ├ > evaluate
 ├ $ exec
@@ -632,10 +633,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}self
 ├ ${prefix}public [only bot]
 ├ ${prefix}del [reply pesan bot]
-╰❒ ${prefix}setppbot [reply image]
+├ ${prefix}setppbot [reply image]
+╰───────❒
 
 
-╭─❒ 「 Store Menu 」
+╭─❒ *「 Store Menu 」*
 ├ ${prefix}list
 ├ ${prefix}addlist [key|respond]
 ├ ${prefix}dellist [key]
@@ -647,17 +649,19 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}kurang
 ├ ${prefix}kalkulator
 ├ ${prefix}proses
-╰❒ ${prefix}done [surah|ayat]
+├ ${prefix}done [surah|ayat]
+╰───────❒
 
 
-╭─❒ 「 Anonymous 」
+╭─❒ *「 Anonymous 」*
 ├ ${prefix}anonymous 
 ├ ${prefix}start
 ├ ${prefix}skip [daerah]
-╰❒ ${prefix}stop [surah|ayat]
+├ ${prefix}stop [surah|ayat]
+╰───────❒
 
 
-╭─❒ 「 Database 」 
+╭─❒ *「 Database 」*
 ├ ${prefix}setcmd [reply stiker]
 ├ ${prefix}delcmd [reply stiker]
 ├ ${prefix}listcmd
@@ -668,10 +672,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}addmsg [nama file]
 ├ ${prefix}getmsg [nama file]
 ├ ${prefix}listmsg
-╰❒ ${prefix}delmsg [nama file]
+├ ${prefix}delmsg [nama file]
+╰───────❒
 
 
-╭─❒ 「 Group 」 
+╭─❒ *「 Group 」*
 ├ ${prefix}listonline
 ├ ${prefix}sider
 ├ ${prefix}wm packname|author
@@ -688,30 +693,34 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}take packname|author
 ├ ${prefix}group [open/close]
 ├ ${prefix}tagall [text]
-╰❒ ${prefix}hidetag [text]
+├ ${prefix}hidetag [text]
+╰───────❒
 
 
-╭─❒ 「 Anime 」 
+╭─❒ *「 Anime 」*
 ├ ${prefix}quotesanime
 ├ ${prefix}anime [query]
 ├ ${prefix}manga [query]
-╰❒ ${prefix}character [query]
+├ ${prefix}character [query]
+╰───────❒
 
 
-╭─❒ 「 Tag 」 
+╭─❒ *「 Tag 」*
 ├ ${prefix}stickertag
 ├ ${prefix}videotag [query]
 ├ ${prefix}vntag [query]
-╰❒ ${prefix}imagetag [query]
+├ ${prefix}imagetag [query]
+╰───────❒
 
 
-╭─❒ 「 Stalking 」 
+╭─❒ *「 Stalking 」*
 ├ ${prefix}igstalk [username]
 ├ ${prefix}ghstalk [username]
-╰❒ ${prefix}ytstalk [channel]
+├ ${prefix}ytstalk [channel]
+╰───────❒
 
 
-╭─❒ 「 Search 」 
+╭─❒ *「 Search 」*
 ├ ${prefix}ytsearch [query]
 ├ ${prefix}wallpaper [query]
 ├ ${prefix}google [query]
@@ -720,10 +729,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}wattpad [query]
 ├ ${prefix}webtoons [query]
 ├ ${prefix}drakor [query]
-╰❒ ${prefix}pinterest [query]
+├ ${prefix}pinterest [query]
+╰───────❒
 
 
-╭─❒ 「 Converter 」
+╭─❒ *「 Converter 」*
 ├ ${prefix}toaudio [video]
 ├ ${prefix}tomp3 [video]
 ├ ${prefix}tovn [video]
@@ -731,10 +741,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}tourl [image/video/stiker]
 ├ ${prefix}togif [sticker]
 ├ ${prefix}tomp4 [sticker]
-╰❒${prefix}toimg [reply sticker]
+├ ${prefix}toimg [reply sticker]
+╰───────❒
 
 
-╭─❒ 「 Image Effect 」 
+╭─❒ *「 Image Effect 」*
 ├ ${prefix}wanted [reply image/stiker]
 ├ ${prefix}utatoo [reply image/stiker]
 ├ ${prefix}unsharpen [reply image/stiker]
@@ -768,10 +779,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}challenger [reply image/stiker]
 ├ ${prefix}burn [reply image/stiker]
 ├ ${prefix}brazzers [reply image/stiker]
-╰❒ ${prefix}beautiful [reply image/stiker]
+├ ${prefix}beautiful [reply image/stiker]
+╰───────❒
 
 
-╭─❒ 「 Sticker Effect 」 
+╭─❒ *「 Sticker Effect 」*
 ├ ${prefix}jail [reply image/stiker]
 ├ ${prefix}red [reply image/stiker]
 ├ ${prefix}gay [reply image/stiker]
@@ -790,10 +802,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}greyscale [reply image/stiker]
 ├ ${prefix}threshold [reply image/stiker]
 ├ ${prefix}brightness [reply image/stiker]
-╰❒ ${prefix}invertgreyscale [reply image/stiker]
+├ ${prefix}invertgreyscale [reply image/stiker]
+╰───────❒
 
 
-╭─❒ 「 Download 」 
+╭─❒ *「 Download 」*
 ├ ${prefix}tiktok [link]
 ├ ${prefix}tiktoknowm [link]
 ├ ${prefix}tiktokwm [link]
@@ -818,10 +831,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}gitclone [link repo]
 ├ ${prefix}gitrepo [username repo branch]
 ├ ${prefix}mediafire [link]
-╰❒ ${prefix}twitter link
+├ ${prefix}twitter link
+╰───────❒
 
 
-╭─❒ 「 Primbon 」
+╭─❒ *「 Primbon 」*
 ├ ${prefix}nomorhoki 887435047326
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
@@ -851,10 +865,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}memancing
 ├ ${prefix}masasubur
 ├ ${prefix}zodiak 
-╰❒ ${prefix}shio [query]
+├ ${prefix}shio [query]
+╰───────❒
 
 
-╭─❒ 「 Random Anime 」
+╭─❒ *「 Random Anime 」*
 ├ ${prefix}loli
 ├ ${prefix}neko
 ├ ${prefix}waifu
@@ -885,10 +900,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}wink
 ├ ${prefix}poke
 ├ ${prefix}dance
-╰❒ ${prefix}cringe
+├ ${prefix}cringe
+╰───────❒
 
 
-╭─❒ 「 Nsfw & Sfw 」
+╭─❒ *「 Nsfw & Sfw 」*
 ├ ${prefix}ahegao
 ├ ${prefix}ass
 ├ ${prefix}bdsm
@@ -966,10 +982,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}anal
 ├ ${prefix}ngif
 ├ ${prefix}cuddle
-╰❒ ${prefix}zettai
+├ ${prefix}zettai
+╰───────❒
 
 
-╭─❒ 「 Ephoto360 Menu 」
+╭─❒ *「 Ephoto360 Menu 」*
 ├ ${prefix}youtubegold
 ├ ${prefix}youtubesilver
 ├ ${prefix}facebookgold
@@ -1048,10 +1065,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}summerbeach
 ├ ${prefix}1917text
 ├ ${prefix}puppycute
-╰❒ ${prefix}rosebirthday
+├ ${prefix}rosebirthday
+╰───────❒
 
 
-╭─❒ 「 Textpro Menu 」
+╭─❒ *「 Textpro Menu 」*
 ├ ${prefix}halloween2 text|text2
 ├ ${prefix}horror text|text2
 ├ ${prefix}game8bit text|text2
@@ -1231,28 +1249,30 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}3dchrome text
 ├ ${prefix}metalb2 text
 ├ ${prefix}metalg text
-╰❒ ${prefix}metalg text
+├ ${prefix}metalg text
+╰───────❒
 
 
-╭─❒ 「 Others 」
+╭─❒ *「 Others 」*
 ├ ${prefix}afk [reason]
 ├ ${prefix}translate kode_bahasa text
 ├ ${prefix}kalkulator [query]
 ├ ${prefix}smeme [text]
 ├ ${prefix}smeme2 [text|text]
 ├ ${prefix}memegen [text|text]
-╰❒
+╰───────❒
 
 
-╭─❒ 「 Game Menu 」
+╭─❒ *「 Game Menu 」*
 ├ ${prefix}kuismath
 ├ ${prefix}tebak [option]
 ├ ${prefix}tekateki
 ├ ${prefix}susunkata
-╰❒ ${prefix}caklontong
+├ ${prefix}caklontong
+╰───────❒
 
 
-╭─❒ 「 Asupan Menu 」
+╭─❒ *「 Asupan Menu 」*
 ├ ${prefix}chika
 ├ ${prefix}delvira
 ├ ${prefix}ayu
@@ -1274,10 +1294,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}geayubi
 ├ ${prefix}santuy
 ├ ${prefix}ukhty
-╰❒ ${prefix}syifa
+├ ${prefix}syifa
+╰───────❒
 
 
-╭─❒ 「 Telegram Sticker 」
+╭─❒ *「 Telegram Sticker 」*
 ├ ${prefix}awoawo
 ├ ${prefix}benedict
 ├ ${prefix}chat
@@ -1298,10 +1319,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}popoci
 ├ ${prefix}sponsbob
 ├ ${prefix}kawan_sponsbob
-╰❒ ${prefix}tyni
+├ ${prefix}tyni
+╰───────❒
 
 
-╭─❒ 「 Random Cewe 」
+╭─❒ *「 Random Cewe 」*
 ├ ${prefix}china 
 ├ ${prefix}indonesia 
 ├ ${prefix}malaysia 
@@ -1312,10 +1334,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}jenni 
 ├ ${prefix}jiso 
 ├ ${prefix}lisa  
-╰❒ ${prefix}rose
+├ ${prefix}rose
+╰───────❒
 
 
-╭─❒ 「 Logo Menu 」
+╭─❒ *「 Logo Menu 」*
 ├ ${prefix}coverbannerlol text|heroes
 ├ ${prefix}pubglogomaker text|style
 ├ ${prefix}colorfulpubg text|color
@@ -1380,10 +1403,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}bannerofpubg text|text2|background
 ├ ${prefix}mascotstyle text|text2|thumb
 ├ ${prefix}logoaccording text|text2|thumb
-╰❒ ${prefix}avataroverwatch text|text2|thumb
+├ ${prefix}avataroverwatch text|text2|thumb
+╰───────❒
 
 
-╭─❒ 「 Islamic Menu 」
+╭─❒ *「 Islamic Menu 」*
 ├ ${prefix}asmaulhusna
 ├ ${prefix}kisahnabi [nabi]
 ├ ${prefix}jadwalshalat [daerah]
@@ -1391,10 +1415,11 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}randomquran2
 ├ ${prefix}listsurah
 ├ ${prefix}tafsirsurah [surah]
-╰❒ ${prefix}alquranaudio [surah|ayat]
+├ ${prefix}alquranaudio [surah|ayat]
+╰───────❒
 
 
-╭─❒ 「 Sound Menu 」
+╭─❒ *「 Sound Menu 」*
 ├ ${prefix}sound1
 ├ ${prefix}sound2
 ├ ${prefix}sound3
@@ -1464,10 +1489,19 @@ Youtube : youtube.com/xynelsdesign
 ├ ${prefix}sound67
 ├ ${prefix}sound68
 ├ ${prefix}sound69
-╰❒ ${prefix}sound70
+├ ${prefix}sound70
+╰───────❒
 
 
-╭─❒ 「 TqTo 」 
+╭─❒ *「 Jasa Sewa Bot 」*
+├ 1 Minggu : 6.000
+├ 2 Minggu : 10.000
+├ 1 Bulan : 15.000
+├ Permanent : 35.000
+╰───────❒
+
+
+╭─❒ *「 TqTo 」*
 ├ My God
 ├ Xynels Design
 ├ Fatih A.
@@ -1478,7 +1512,8 @@ Youtube : youtube.com/xynelsdesign
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
-╰❒ And All Support
+├ And All Support
+╰───────❒
     `
 }
 
